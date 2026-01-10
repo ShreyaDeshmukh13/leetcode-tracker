@@ -1,2 +1,1 @@
-# leetcode-tracker
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+A collection of my LeetCode solutions in Java, created to track consistency, strengthen data structures & algorithms, and prepare for technical interviews.
