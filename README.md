@@ -30,4 +30,8 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0009-palindrome-number) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
