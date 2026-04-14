@@ -8,6 +8,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0001-two-sum](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1848-minimum-distance-to-the-target-element) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0009-palindrome-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Database
 |  |
 | ------- |
