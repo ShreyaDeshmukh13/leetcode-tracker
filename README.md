@@ -10,6 +10,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1672-richest-customer-wealth) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -49,4 +50,5 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
