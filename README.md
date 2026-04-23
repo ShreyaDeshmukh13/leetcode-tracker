@@ -65,5 +65,10 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0231-power-of-two) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
