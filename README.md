@@ -37,6 +37,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -74,4 +75,5 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
