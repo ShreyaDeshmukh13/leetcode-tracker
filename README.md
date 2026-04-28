@@ -12,6 +12,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0136-single-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0268-missing-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -22,6 +23,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | ------- |
 | [0001-two-sum](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0141-linked-list-cycle) |
+| [0268-missing-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | ------- |
 | [0009-palindrome-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Database
 |  |
@@ -57,6 +60,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0268-missing-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
@@ -65,6 +69,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0136-single-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -76,4 +81,8 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0141-linked-list-cycle](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0876-middle-of-the-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
