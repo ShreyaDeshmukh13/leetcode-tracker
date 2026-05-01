@@ -38,6 +38,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0344-reverse-string) |
 ## Trie
 |  |
@@ -48,6 +49,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0344-reverse-string) |
@@ -102,4 +104,8 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0268-missing-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0645-set-mismatch) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
