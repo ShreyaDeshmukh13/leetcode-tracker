@@ -99,6 +99,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0876-middle-of-the-linked-list) |
