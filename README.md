@@ -39,6 +39,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0344-reverse-string) |
 ## Trie
 |  |
@@ -58,6 +59,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -81,6 +83,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0231-power-of-two) |
@@ -108,4 +111,8 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
