@@ -20,6 +20,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0442-find-all-duplicates-in-an-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -83,6 +84,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0162-find-peak-element](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
