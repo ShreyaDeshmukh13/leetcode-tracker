@@ -10,6 +10,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0041-first-missing-positive) |
 | [0136-single-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0137-single-number-ii) |
@@ -78,6 +79,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0287-find-the-duplicate-number) |
