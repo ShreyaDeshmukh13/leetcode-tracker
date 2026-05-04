@@ -63,6 +63,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0231-power-of-two) |
@@ -100,6 +101,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0231-power-of-two) |
 ## Linked List
