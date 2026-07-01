@@ -12,6 +12,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0041-first-missing-positive) |
+| [0075-sort-colors](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0162-find-peak-element) |
@@ -64,6 +65,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0027-remove-element](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0283-move-zeroes) |
@@ -129,6 +131,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0645-set-mismatch) |
