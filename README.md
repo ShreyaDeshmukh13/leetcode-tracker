@@ -27,6 +27,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0867-transpose-matrix](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1480-running-sum-of-1d-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1672-richest-customer-wealth) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -183,4 +184,8 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1603-design-parking-system) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
