@@ -33,6 +33,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [1572-matrix-diagonal-sum](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1672-richest-customer-wealth) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1920-build-array-from-permutation](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
@@ -150,6 +151,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0067-add-binary](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0867-transpose-matrix) |
 | [1603-design-parking-system](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1603-design-parking-system) |
+| [1920-build-array-from-permutation](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Dynamic Programming
 |  |
