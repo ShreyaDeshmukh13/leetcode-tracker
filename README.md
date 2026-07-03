@@ -30,6 +30,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1672-richest-customer-wealth) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -47,6 +48,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0442-find-all-duplicates-in-an-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0645-set-mismatch) |
+| [1512-number-of-good-pairs](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0268-missing-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1512-number-of-good-pairs](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1512-number-of-good-pairs) |
 ## Database
 |  |
 | ------- |
@@ -201,6 +204,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 ## Counting
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1512-number-of-good-pairs) |
 | [1603-design-parking-system](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1603-design-parking-system) |
 ## Prefix Sum
 |  |
