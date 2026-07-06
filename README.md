@@ -42,6 +42,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0217-contains-duplicate) |
@@ -53,6 +54,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -84,6 +86,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0070-climbing-stairs) |
