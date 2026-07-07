@@ -47,6 +47,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0141-linked-list-cycle](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0645-set-mismatch) |
@@ -63,6 +64,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0125-valid-palindrome](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0383-ransom-note) |
 | [1108-defanging-an-ip-address](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Trie
@@ -210,6 +212,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0383-ransom-note) |
 | [1512-number-of-good-pairs](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1512-number-of-good-pairs) |
 | [1603-design-parking-system](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1603-design-parking-system) |
 ## Prefix Sum
