@@ -97,6 +97,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0509-fibonacci-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1512-number-of-good-pairs) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Database
 |  |
 | ------- |
