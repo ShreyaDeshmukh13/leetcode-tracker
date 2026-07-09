@@ -66,6 +66,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0171-excel-sheet-column-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0383-ransom-note) |
+| [0520-detect-capital](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0520-detect-capital) |
 | [1108-defanging-an-ip-address](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Trie
