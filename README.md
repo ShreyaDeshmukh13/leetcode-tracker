@@ -13,6 +13,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0035-search-insert-position](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0137-single-number-ii) |
@@ -93,6 +94,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0009-palindrome-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0171-excel-sheet-column-number) |
