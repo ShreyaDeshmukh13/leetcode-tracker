@@ -67,6 +67,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0171-excel-sheet-column-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0383-ransom-note) |
+| [0412-fizz-buzz](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0520-detect-capital) |
 | [1108-defanging-an-ip-address](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -101,6 +102,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0171-excel-sheet-column-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1512-number-of-good-pairs) |
@@ -168,6 +170,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0867-transpose-matrix) |
 | [1603-design-parking-system](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1603-design-parking-system) |
 | [1920-build-array-from-permutation](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1920-build-array-from-permutation) |
