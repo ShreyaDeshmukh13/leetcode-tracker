@@ -18,6 +18,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0136-single-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0283-move-zeroes) |
@@ -47,6 +48,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0013-roman-to-integer](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0383-ransom-note) |
@@ -159,6 +161,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -223,6 +226,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0383-ransom-note) |
 | [1512-number-of-good-pairs](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1512-number-of-good-pairs) |
 | [1603-design-parking-system](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1603-design-parking-system) |
@@ -238,4 +242,8 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0374-guess-number-higher-or-lower) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
