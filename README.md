@@ -96,6 +96,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0050-powx-n](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0231-power-of-two) |
@@ -119,6 +120,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0287-find-the-duplicate-number) |
