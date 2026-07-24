@@ -41,6 +41,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [1920-build-array-from-permutation](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0509-fibonacci-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1512-number-of-good-pairs) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Database
@@ -143,6 +145,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0268-missing-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0645-set-mismatch) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -251,4 +254,8 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
