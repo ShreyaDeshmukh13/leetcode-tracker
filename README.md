@@ -16,6 +16,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0066-plus-one](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0162-find-peak-element) |
@@ -215,6 +216,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0100-same-tree](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0100-same-tree](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -262,6 +265,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0169-majority-element) |
 ## Number Theory
 |  |
@@ -275,4 +279,8 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
