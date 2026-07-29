@@ -58,6 +58,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0645-set-mismatch) |
 | [1512-number-of-good-pairs](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1512-number-of-good-pairs) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0520-detect-capital](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0520-detect-capital) |
 | [1108-defanging-an-ip-address](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Trie
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1512-number-of-good-pairs) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Database
@@ -239,6 +242,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0383-ransom-note](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0383-ransom-note) |
 | [1512-number-of-good-pairs](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1512-number-of-good-pairs) |
 | [1603-design-parking-system](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1603-design-parking-system) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -263,4 +267,8 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
