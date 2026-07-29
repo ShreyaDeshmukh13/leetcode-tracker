@@ -149,6 +149,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0231-power-of-two) |
@@ -156,6 +157,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0141-linked-list-cycle) |
