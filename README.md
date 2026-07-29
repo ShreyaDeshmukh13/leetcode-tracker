@@ -17,6 +17,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0075-sort-colors](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0162-find-peak-element) |
@@ -198,6 +199,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | ------- |
 | [0055-jump-game](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
