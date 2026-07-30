@@ -213,6 +213,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0110-balanced-binary-tree](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0110-balanced-binary-tree](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -245,6 +248,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0110-balanced-binary-tree](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
