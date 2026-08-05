@@ -311,4 +311,8 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/3310-remove-methods-from-project) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
