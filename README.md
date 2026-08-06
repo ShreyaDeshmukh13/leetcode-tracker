@@ -55,6 +55,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0141-linked-list-cycle](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0383-ransom-note) |
@@ -74,6 +75,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0067-add-binary](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0412-fizz-buzz) |
