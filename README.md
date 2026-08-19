@@ -31,6 +31,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0867-transpose-matrix) |
@@ -281,6 +282,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1480-running-sum-of-1d-array) |
 ## Greedy
 |  |
