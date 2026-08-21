@@ -29,6 +29,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0287-find-the-duplicate-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0724-find-pivot-index) |
@@ -62,6 +63,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0383-ransom-note](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0645-set-mismatch) |
 | [1512-number-of-good-pairs](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1512-number-of-good-pairs) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -282,6 +284,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1480-running-sum-of-1d-array) |
 ## Greedy
