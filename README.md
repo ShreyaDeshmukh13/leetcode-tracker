@@ -29,6 +29,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0287-find-the-duplicate-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0704-binary-search) |
@@ -63,6 +64,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0383-ransom-note](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0645-set-mismatch) |
 | [1512-number-of-good-pairs](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1512-number-of-good-pairs) |
@@ -122,6 +124,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0268-missing-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0523-continuous-subarray-sum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1512-number-of-good-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -284,6 +287,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/1480-running-sum-of-1d-array) |
@@ -325,4 +329,8 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0169-majority-element) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
