@@ -23,6 +23,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0137-single-number-ii](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0283-move-zeroes) |
@@ -122,6 +123,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0069-sqrtx](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0171-excel-sheet-column-number) |
+| [0204-count-primes](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0412-fizz-buzz) |
@@ -310,10 +312,12 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0204-count-primes) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0204-count-primes) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Combinatorics
 |  |
@@ -335,4 +339,16 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0523-continuous-subarray-sum) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
