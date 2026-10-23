@@ -61,6 +61,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0169-majority-element](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -83,6 +84,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0151-reverse-words-in-a-string](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0412-fizz-buzz) |
@@ -195,6 +197,7 @@ A collection of my LeetCode solutions in Java, created to track consistency, str
 | [0088-merge-sorted-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/ShreyaDeshmukh13/leetcode-tracker/tree/master/0645-set-mismatch) |
